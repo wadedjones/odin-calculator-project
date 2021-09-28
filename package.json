@@ -1,0 +1,19 @@
+{
+  "name": "odin-calculator-project",
+  "version": "1.0.0",
+  "description": "Calculator project starts with JS build HTML GUI later",
+  "main": "calculator_js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadedjones/odin-calculator-project.git"
+  },
+  "author": "Wade Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadedjones/odin-calculator-project/issues"
+  },
+  "homepage": "https://github.com/wadedjones/odin-calculator-project#readme"
+}
